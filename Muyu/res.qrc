@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/muyu.png</file>
+        <file>res/sound.wav</file>
+        <file>res/yuyuyu.jpg</file>
+        <file>res/yuicon.ico</file>
+    </qresource>
+</RCC>
